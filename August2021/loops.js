@@ -44,8 +44,12 @@
 // console.log(3)
 // console.log(4)
 // console.log(5)
+// console.log(1*5)
+// console.log(2*5)
+// console.log(3*5)
 
-
+// for (var i = 1; i < 1000; i+=100*5)
+// console.log(i)
 // for (var i = 1000; i >= 0; i--) {
 //     console.log(i);
 // }
