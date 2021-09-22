@@ -9,6 +9,7 @@ var car = {
     mileage:  '10 miles',
 
 }
+car["shape"] = "plane"
 console.log(car);
 // mutating a value in an object
 // car.name = "Chevrolet"   
