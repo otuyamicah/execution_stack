@@ -1,19 +1,18 @@
 function one(){
-    return 'i am function one'
+    console.log('i am function one')
 }
-console.log(one())
+three()
+
 
 
 function two(){
-    return 'i am function two'
-   
+    console.log('i am function two')
 }
-console.log(two())
+one()
 
 
 
 function three(){
-    return 'i am function three'
-    
+    console.log('i am function three')  
 }
-console.log(three())
+two()
