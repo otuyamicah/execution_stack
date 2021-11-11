@@ -6,9 +6,9 @@ one()
 
 
 function two(){
-    console.log()
+    util()
 }
-two(util())
+two()
 
 
 
