@@ -5,10 +5,10 @@ one()
 
 
 
-function two(){
-    console.log()
+function two(util){
+    console.log("util")
 }
-two(util())
+two()
 
 
 
