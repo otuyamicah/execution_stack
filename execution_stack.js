@@ -3,8 +3,8 @@ var name = "micah"
 
 
 function one(){
-    var a = "is this "
-    console.log(a + " micah")
+    var x = "is this "
+    console.log(x + " micah")
     two()
 }
 
@@ -12,16 +12,16 @@ function one(){
 
 
 function two(){
-    var b = "are you "
-    console.log(b + " micah")
+    var y = "are you "
+    console.log(y + " micah")
     three()
 }
 
 
 
 function three(){
-    var c = "where is "
-    console.log(c + " micah") 
+    var z = "where is "
+    console.log(z + " micah") 
     util()
 }
 
