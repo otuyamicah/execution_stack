@@ -12,7 +12,7 @@ function one(){
 
 
 function two(){
-    var statement = "this is you "
+    var statement = "this is "
     console.log(statement + " micah")
     three()
 }
