@@ -1,21 +1,21 @@
 function one(){
     console.log('i am function one')
 }
-one()
+three()
 
 
 
-function two(util){
-    console.log("util")
+function two(){
+    console.log('i am function two')
 }
-two()
+one()
 
 
 
 function three(){
     console.log('i am function three')  
 }
-three()
+two()
 
 function util(){
     console.log('======================')
