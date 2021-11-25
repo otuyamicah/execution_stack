@@ -3,7 +3,7 @@ var name = "micah"
 
 
 function one(){
-    var x = "is this "
+    var x = "hi"
     console.log(x + " micah")
     two()
 }
@@ -12,7 +12,7 @@ function one(){
 
 
 function two(){
-    var y = "are you "
+    var y = "howfar"
     console.log(y + " micah")
     three()
 }
@@ -20,7 +20,7 @@ function two(){
 
 
 function three(){
-    var z = "where is "
+    var z = "how e be"
     console.log(z + " micah") 
     util()
 }
