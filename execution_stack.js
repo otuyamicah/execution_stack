@@ -16,9 +16,3 @@ function three(){
     console.log('i am function three')  
 }
 two()
-
-function util(){
-    console.log('======================')
-    console.log('|== Util was called ==|')
-    console.log('======================')
-}
