@@ -1,38 +1,24 @@
-var name = "micah"
-
-
-
 function one(){
-    var x = "hi"
-    console.log(x + " micah")
-    two()
+    console.log('i am function one')
 }
-
+one()
 
 
 
 function two(){
-    var y = "howfar"
-    console.log(y + " micah")
-    three()
+    util()
 }
+two()
 
 
 
 function three(){
-    var z = "how e be"
-    console.log(z + " micah") 
-    util()
+    console.log('i am function three')  
 }
-
+three()
 
 function util(){
     console.log('======================')
     console.log('|== Util was called ==|')
     console.log('======================')
 }
-
-one()
-
-
-
